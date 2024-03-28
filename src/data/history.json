@@ -1,0 +1,19 @@
+[
+    {
+      "role": "Student",
+      "organisation": "NxtWave Disruptive Technologies",
+      "startDate": "Jan, 2023",
+      "endDate": "Present",
+      "experiences": ["Learning the Technologies","Developing the Responsive websites"],
+      "imageSrc": "https://education.sakshi.com/sites/default/files/styles/slider/public/2022-06/nxtwave.jpg?h=ed058017"
+    },
+    {
+      "role": "Analyst",
+      "organisation": "HCL Technologies",
+      "startDate": "Jan, 2021",
+      "endDate": "Jan, 2023",
+      "experiences": ["Worked on HANA Database", "Supporetd the Customer Requests"],
+      "imageSrc": "https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2F20220927102358_hcltech.png&h=570&w=855&q=100&v=20170226&c=1"
+    }
+    
+  ]

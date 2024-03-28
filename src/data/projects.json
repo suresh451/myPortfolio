@@ -1,0 +1,26 @@
+[
+    {
+      "title": "NxtTrendz",
+      "imageSrc": "projects/nextTrendz.png",
+      "description": "Created a modern e-commerce experience with a design inspired by Amazon and Flipkart.",
+      "skills": [ "HTML", "CSS", "JavaScript","React"],
+      "demo": "https://nxtTrendz451.ccbp.tech",
+      "source": "https://github.com/suresh451/nxtTrendzSolution.git"
+    },
+    {
+      "title": "Jobby App",
+      "imageSrc": "projects/jobbyApp.png",
+      "description": "Brought to life an all-encompassing job search platform, Jobby App.",
+      "skills": [ "HTML", "CSS", "JavaScript","React"],
+      "demo": "https://jobbyApp451.ccbp.tech",
+      "source": "https://github.com/suresh451/jobbyApp030324.git"
+    },
+    {
+      "title": "Movies App",
+      "imageSrc": "projects/moviesApp.png",
+      "description": "Created a comprehensive OTT platform for movie lovers, mimicking the functionality of Netflix and Amazon Prime.",
+      "skills": [ "HTML", "CSS", "JavaScript","React"],
+      "demo": "https://moviesApp451.ccbp.tech",
+      "source": "https://github.com/suresh451/moviesApp1.git"
+    }
+  ]
