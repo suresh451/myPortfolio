@@ -28,10 +28,10 @@ const Experience = () => {
                             <div className={styles.historyItemDetails}>
                                 <h3>{historyItem.organisation}, {historyItem.role}</h3>
                                 <p>{historyItem.startDate} - {historyItem.endDate}</p>
-                                <ul>
+                                <ul className={styles.ulList}>
                                     {historyItem.experiences.map((experience, id) => {
                                         return (
-                                            <li key={id}>{experience}</li>
+                                            <li key={id} className={styles.listItem}>{experience}</li>
                                         )
                                     })}
                                 </ul>

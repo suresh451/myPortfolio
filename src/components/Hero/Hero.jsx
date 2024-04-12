@@ -7,7 +7,7 @@ const Hero = () => {
     <section className={styles.container}>
         <div className={styles.content}>
             <h1 className={styles.title}>Hi, I'm Suresh</h1>
-            <p className={styles.description}>I'm a front-end developer seeking a chance to demonstrate and improve my abilities. Please let me know if you have any opportunities </p>
+            <p className={styles.description}>I'm a front-end developer seeking a chance to demonstrate and improve my abilities. Please let me know if you have any opportunities. <br />ThankYou!</p>
             <a href='mailto:chavvakulasuresh1998@gmail.com' className={styles.contactBtn} target="_blank">Contact Me</a>
         </div>
         <img src={getImageUrl("hero/myImage1.png")} alt="hero" className={styles.heroImg}/>

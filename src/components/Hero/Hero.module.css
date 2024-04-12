@@ -6,8 +6,8 @@
     align-items: center;
     justify-content: space-between;
     margin-top: 49px;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
     z-index: 1;
     padding: 20px;
 }
@@ -30,7 +30,33 @@
     );
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: 
+          typing 4s,
+          cursor .4s step-end infinite alternate;
 }
+
+/* .spanElement {
+  width: 100%;
+  
+  
+} */
+
+@keyframes typing {
+  from {
+    width: 0
+  }
+
+}
+
+@keyframes cursor {
+  50% {
+    border-color: transparent
+  }
+}
+
 
 .description {
     font-size: 30px;
@@ -43,7 +69,7 @@
     background-color: var(--color-primary);
     color: var(--color-text);
     border-radius: 100px;
-    font-size: 30px;
+    font-size: 20px;
     font-weight: 600;
     padding: 17px 26px;
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
